@@ -1,0 +1,6 @@
+.container-canvas{
+    display: block; 
+    position: relative; 
+    height:50vh; 
+    width:70vh;
+}
